@@ -4,12 +4,6 @@
 #include "headers/IOCore.h"
 #include "headers/AudioCore.h"
 
-/**
- * Что надо доделать:
- * 1) Считывание с устройств ввода/вывода
- * 2) Аудио-движок
- */
-
 using namespace std;
 
 /**
